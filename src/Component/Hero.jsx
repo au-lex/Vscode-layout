@@ -66,7 +66,7 @@ border-none text-slate-100 h-[60vh]'></textarea>
 {/* <div className='bg-red-500 w-full h-[2rem] fixed  '></div> */}
         </div>      
         <div  className='relative'>
-    <div className=' border-slate-500 border-t w-full  h-[15rem]  absolute top-[0rem]'>
+    <div className=' border-slate-500 border-t w-full  h-[15rem] hidden  absolute top-[0rem]'>
 
         <div className='flex justify-between'>
         <section className='flex space-x-3 pt-4'>
